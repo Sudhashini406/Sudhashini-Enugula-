@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="400" src="pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhashini406&label=Profile%20views&color=0e75b6&style=flat" alt="sudhashini406" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhashini406" alt="sudhashini406" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhashini406&label=Profile%20views&color=0e75b6&style=flat" alt="sudhashini406" /> </p>
 
 - 🔭 I’m currently working on **Spring Boot, RESTful APIs**
 
@@ -15,6 +14,8 @@
 - 👯 I’m looking to collaborate on **ull-stack development projects, Python-based applications, and open-source contributions.**
 
 - 🤝 I’m looking for help with **Advanced Spring Boot concepts and building RESTful APIs.**
+
+- 👨‍💻 All of my projects are available at [I have completed a few projects and am currently working on new ones that I plan to upload to GitHub soon, showcasing my skills in Python, Java, and web development. Stay tuned!](I have completed a few projects and am currently working on new ones that I plan to upload to GitHub soon, showcasing my skills in Python, Java, and web development. Stay tuned!)
 
 - 💬 Ask me about **Python development, Java programming, and machine learning projects.**
 
@@ -26,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudhashini enugula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhashini enugula" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudhashini-enugula-25860130a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudhashini-enugula-25860130a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sudhashini123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudhashini123" height="30" width="40" /></a>
 </p>
 
