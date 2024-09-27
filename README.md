@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.dreamstime.com/illustration/programming-banner.html)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](creative_github_banner.png)
 <h1 align="center">Hi 👋, I'm Sudhashini Enugula</h1>
 <h3 align="center">Aspiring Software Developer | Eager to Learn and Contribute"</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-ai-image/working-girl-office-work-animated-girl-working-laptop_79602130.htm">
+<img align="right" alt="Coding" width="400" src="pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhashini406&label=Profile%20views&color=0e75b6&style=flat" alt="sudhashini406" /> </p>
