@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sudhashini Enugula</h1>
 <h3 align="center">Aspiring Software Developer | Eager to Learn and Contribute"</h3>
 
-<img title="01-pinssm.gif" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
+<img  align="right" alt="Coding" width="400" title="01-pinssm.gif" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 
 
 
