@@ -1,8 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](creative_github_banner.png)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)](creative_github_banner.png)
 <h1 align="center">Hi 👋, I'm Sudhashini Enugula</h1>
 <h3 align="center">Aspiring Software Developer | Eager to Learn and Contribute"</h3>
 
-<img  align="right" alt="Coding" width="400" title="01-pinssm.gif" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img  align="right" alt="Coding" width="400" title="01-pinssm.gif" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif
+">
 ">
 
 
