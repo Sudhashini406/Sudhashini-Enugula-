@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot through a Udemy course to enhance my backend development skills, alongside RESTful APIs.**
 
-- 👯 I’m looking to collaborate on **ull-stack development projects, Python-based applications, and open-source contributions.**
+- 👯 I’m looking to collaborate on **Full-stack development projects, Python-based applications, and open-source contributions.**
 
 - 🤝 I’m looking for help with **Advanced Spring Boot concepts and building RESTful APIs.**
 
