@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-left: 50px;">
+<div style="text-align: center; margin-left: 500px;">
     <a href="creative_github_banner.png">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s" alt="MasterHead" width="800">
     </a>
