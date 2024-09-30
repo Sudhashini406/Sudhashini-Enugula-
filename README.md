@@ -1,7 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](creative_github_banner.png)
 <h1 align="center">Hi 👋, I'm Sudhashini Enugula</h1>
 <h3 align="center">Aspiring Software Developer | Eager to Learn and Contribute"</h3>
-<img align="right" alt="Coding" width="400" src="pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png">
+
+<img align="right" alt="Coding" width="400" src="sudha.png">
+
 
 
 
